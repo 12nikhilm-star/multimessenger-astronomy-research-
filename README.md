@@ -11,9 +11,8 @@ This repository documents my journey as an undergraduate ECE student exploring *
 - Building research ideas and simulation prototypes
 
 ## Roadmap
-- [ ] Read first review paper on SNEWS/neutrino alerts
-- [ ] Learn LIGO data basics (tutorials)
-- [ ] Explore X-ray/radio observations
-- [ ] Build first signal-processing notebook
-- [ ] Prototype simple anomaly detection or alert simulator
+ Read review papers on SNEWS/neutrino alerts
+ Learn LIGO data
+ Explore X-ray/radio observations 
+ Prototype simple anomaly detection or alert   simulator
 
