@@ -4,7 +4,7 @@ This repository documents my journey as an undergraduate ECE student exploring *
 
 **Long-term Goal**: Develop AI + signal-processing techniques for automated alerts and follow-up observations using systems like SNEWS.
 
-## Current Focus (July 2026)
+## Current Focus 
 - Reading review papers on SNEWS, natal kicks, and multimessenger alerts
 - Learning signal processing and machine learning basics
 - Understanding gravitational wave data (LIGO basics)
